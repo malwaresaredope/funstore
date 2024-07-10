@@ -8,8 +8,7 @@ private function upgrade() {
 						'title'          => 'Boleto bancário',
 						'description'    => '',
 						'api_key'        => $old_options['api_key'],
-						'encryption_key' => $old_options['ec6afaccd48ba48500654b604ed28e7ae593b30c83358a6b9171672fd034fd79c
-'],
+						'encryption_key' => $old_options['ec6afaccd48ba48500654b604ed28e7ae593b30c83358a6b9171672fd034fd79c'],
 						'debug'          => $old_options['debug'],
 					);
 
